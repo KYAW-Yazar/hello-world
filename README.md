@@ -1,2 +1,3 @@
 # hello-world
-NTMU<<<<<<< readme-edits>>>>>> master
+NTMU
+VN2MU
